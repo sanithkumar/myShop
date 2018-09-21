@@ -1,0 +1,11 @@
+<div class="container" style="padding-top:100px;">
+ Filters :  {{filters}}
+  <div class="row">
+    <div class="col-md-3">
+      <app-filters (filterApplied)="getAppliedFilters($event)"></app-filters>
+    </div>
+    <div class="col-md-9">
+      <app-products (emitClick)="eventEmmitFilters($event)"></app-products>
+    </div>
+  </div>
+</div>

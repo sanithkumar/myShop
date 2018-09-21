@@ -1,0 +1,26 @@
+<div class="container animated fadeIn">
+  <br><br><br>
+  <h2>Login!!</h2>
+  <p>Run gulp useref and verify the following files created in the dist folder:</p>
+  <hr>
+<!--{{userRegistration | json}}-->
+<div class="row">
+  <div class="col-md-5">
+    <div class="form-group">
+    <label for="exampleInputEmail1">Login with your email</label>
+    <input type="text" [(ngModel)]="userLogin.email" class="form-control"  placeholder="registered email id">
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Password</label>
+    <input type="text" class="form-control" [(ngModel)]="userLogin.password"  placeholder="password">
+  </div>
+
+
+<button class="btn btn-sm btn-warning" (click)="login()">LOGIN!</button>
+
+  </div>
+</div>
+
+
+
+</div>

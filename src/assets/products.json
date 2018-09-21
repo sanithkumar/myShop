@@ -1,0 +1,106 @@
+[
+	{
+		"brand_id": 1,
+		"ph_id": 1,
+		"title": "Nokia X6",
+		"avatar": "https://rukminim1.flixcart.com/image/312/312/jjelq4w0/mobile/w/n/8/samsung-galaxy-j6-sm-j600gzbgins-original-imaf6zpf6q8tjcva.jpeg?q=70",
+		"price": 1600,
+		"des": "By using JSONLint.com you accept our use of cookies and agree to our privacy policy.",
+		"spec": [
+			"No Cost EMIs from ₹2,332/month. Other EMIs from ₹465/month",
+			"Get upto ₹13,000 off on exchange",
+			"Buy Complete Mobile Protection at Just Rs 299! Forget any worries of buying Samsung smartphones online."
+		]
+	},
+	{
+		"brand_id": 1,
+		"ph_id": 2,
+		"title": "Nokia X Plus",
+		"avatar": "https://rukminim1.flixcart.com/image/312/312/j4sronk0/mobile/e/n/w/samsung-on-max-sm-g615fzkuins-original-imaevmfxesgjatny.jpeg?q=70",
+		"price": 27800,
+		"des": "By using JSONLint.com you accept our use of cookies and agree to our privacy policy.",
+		"spec": [
+			"No Cost EMIs from ₹2,332/month. Other EMIs from ₹465/month",
+			"Get upto ₹13,000 off on exchange",
+			"Buy Complete Mobile Protection at Just Rs 299! Forget any worries of buying Samsung smartphones online."
+		]
+	},
+	{
+		"brand_id": 2,
+		"ph_id": 1,
+		"title": "Samsung J6",
+		"price": 16000,
+		"avatar": "https://rukminim1.flixcart.com/image/312/312/jgpfs7k0/mobile/a/q/y/samsung-j2-2018-sm-j250g-original-imaf4uwk3udf3uj4.jpeg?q=70",
+		"des": "By using JSONLint.com you accept our use of cookies and agree to our privacy policy.",
+		"spec": [
+			"No Cost EMIs from ₹2,332/month. Other EMIs from ₹465/month",
+			"Get upto ₹13,000 off on exchange",
+			"Buy Complete Mobile Protection at Just Rs 299! Forget any worries of buying Samsung smartphones online."
+		]
+	},
+	{
+		"brand_id": 2,
+		"ph_id": 2,
+		"title": "Samsung X Plus",
+		"price": 27800,
+		"avatar": "https://rukminim1.flixcart.com/image/312/312/j8q89zk0/mobile/z/z/2/samsung-galaxy-j2-2017-sm-j200gtkdins-original-imaeyzyf3zydbxzj.jpeg?q=70",
+		"des": "By using JSONLint.com you accept our use of cookies and agree to our privacy policy.",
+		"spec": [
+			"No Cost EMIs from ₹2,332/month. Other EMIs from ₹465/month",
+			"Get upto ₹13,000 off on exchange",
+			"Buy Complete Mobile Protection at Just Rs 299! Forget any worries of buying Samsung smartphones online."
+		]
+	},
+	{
+		"brand_id": 3,
+		"ph_id": 1,
+		"title": "Apple J6",
+		"price": 16000,
+		"avatar": "https://rukminim1.flixcart.com/image/312/312/j7qi9ow0/mobile/n/n/5/apple-iphone-se-mp852hn-a-original-imaexw6faf7zbu4s.jpeg?q=70",
+		"des": "By using JSONLint.com you accept our use of cookies and agree to our privacy policy.",
+		"spec": [
+			"No Cost EMIs from ₹2,332/month. Other EMIs from ₹465/month",
+			"Get upto ₹13,000 off on exchange",
+			"Buy Complete Mobile Protection at Just Rs 299! Forget any worries of buying Samsung smartphones online."
+		]
+	},
+	{
+		"brand_id": 3,
+		"ph_id": 2,
+		"title": "Apple X Plus",
+		"price": 27800,
+		"avatar": "https://rukminim1.flixcart.com/image/312/312/j7qi9ow0/mobile/e/z/g/apple-iphone-se-mp822hn-a-original-imaexw6fyuqa9fpm.jpeg?q=70",
+		"des": "By using JSONLint.com you accept our use of cookies and agree to our privacy policy.",
+		"spec": [
+			"No Cost EMIs from ₹2,332/month. Other EMIs from ₹465/month",
+			"Get upto ₹13,000 off on exchange",
+			"Buy Complete Mobile Protection at Just Rs 299! Forget any worries of buying Samsung smartphones online."
+		]
+	},
+	{
+		"brand_id": 4,
+		"ph_id": 1,
+		"title": "Redmi J6",
+		"price": 16000,
+		"avatar": "https://www.flipkart.com/samsung-galaxy-j3-pro-gold-16-gb/p/itmeu35jfryetgew?pid=MOBEU35JAZKVWRPV&lid=LSTMOBEU35JAZKVWRPVUXDI0L&marketplace=FLIPKART&fm=neo/merchandising&iid=M_2c6e7a9e-d8f6-4991-b3c3-509b30e80caf_1_1BUWY8OBA8L9_MC.MOBEU35JAZKVWRPV&ppt=CLP&ppn=CLP:samsung-mobile-store&otracker=clp_pmu_v2_Latest+Samsung+mobiles+_4_samsu-categ-a3c72_Samsung+Galaxy+J3+Pro+%28Gold%2C+16+GB%29_samsung-mobile-store_MOBEU35JAZKVWRPV_neo/merchandising_3&cid=MOBEU35JAZKVWRPV",
+		"des": "By using JSONLint.com you accept our use of cookies and agree to our privacy policy.",
+		"spec": [
+			"No Cost EMIs from ₹2,332/month. Other EMIs from ₹465/month",
+			"Get upto ₹13,000 off on exchange",
+			"Buy Complete Mobile Protection at Just Rs 299! Forget any worries of buying Samsung smartphones online."
+		]
+	},
+	{
+		"brand_id": 4,
+		"ph_id": 2,
+		"title": "Redmi X Plus",
+		"price": 27800,
+		"avatar": "https://www.flipkart.com/samsung-galaxy-j3-pro-gold-16-gb/p/itmeu35jfryetgew?pid=MOBEU35JAZKVWRPV&lid=LSTMOBEU35JAZKVWRPVUXDI0L&marketplace=FLIPKART&fm=neo/merchandising&iid=M_2c6e7a9e-d8f6-4991-b3c3-509b30e80caf_1_1BUWY8OBA8L9_MC.MOBEU35JAZKVWRPV&ppt=CLP&ppn=CLP:samsung-mobile-store&otracker=clp_pmu_v2_Latest+Samsung+mobiles+_4_samsu-categ-a3c72_Samsung+Galaxy+J3+Pro+%28Gold%2C+16+GB%29_samsung-mobile-store_MOBEU35JAZKVWRPV_neo/merchandising_3&cid=MOBEU35JAZKVWRPV",
+		"des": "By using JSONLint.com you accept our use of cookies and agree to our privacy policy.",
+		"spec": [
+			"No Cost EMIs from ₹2,332/month. Other EMIs from ₹465/month",
+			"Get upto ₹13,000 off on exchange",
+			"Buy Complete Mobile Protection at Just Rs 299! Forget any worries of buying Samsung smartphones online."
+		]
+	}
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "title" : "Nokia",
+        "brand_id" : 1
+    },
+    {
+        "title" : "Samsung",
+        "brand_id" : 2
+    },
+     {
+        "title" : "Apple",
+        "brand_id" : 3
+    },
+     {
+        "title" : "Redmi",
+        "brand_id" : 4
+    }
+]

@@ -1,0 +1,11 @@
+header {
+    background:  #2874f0;
+    position: fixed;
+    width: 100%;
+}
+header li a, header a {
+    color:  #FFF !important;
+}
+header li a:hover {
+    background: #2153a5;
+}

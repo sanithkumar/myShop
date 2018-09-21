@@ -1,0 +1,9 @@
+<div class="filters">
+  <h4>Filters</h4>
+  <div class="checkbox" *ngFor="let x of filters">
+  <label>
+    <input type="checkbox" value=""  (change)="filterChanged(x, $event)">
+    {{x.name}}
+  </label>
+</div>
+</div>
